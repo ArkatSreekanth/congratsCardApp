@@ -1,0 +1,33 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.user-profile-card {
+  background-color: #cffafe;
+  padding: 12px;
+  text-align: center;
+  border-radius: 18px;
+}
+
+.congratulations-heading {
+  color: #0f172a;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.userDetails {
+  color: #1e293b;
+  font-weight: 400;
+}
+
+.text-center {
+  text-align: center;
+}
